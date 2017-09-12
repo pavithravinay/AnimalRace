@@ -4,7 +4,7 @@ Author - Pavithra Vinay (sole contributor)
 
 About this Project:
 
-This project is a combination of Animal Race and Animal Race.
+This project is a combination of Animal Race and Animal Farm.
 
 This is to demonstrate Abstract Factory design pattern, I have followed below approach to achieve this:
 1. Create an Interface called “IRacer”.
