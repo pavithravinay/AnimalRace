@@ -1,11 +1,10 @@
 Abstract Factory Design Pattern
 
 Author - Pavithra Vinay (sole contributor)
-CWID - A20369869
 
-About this assignment:
+About this Project:
 
-This assignment is a combination of assignment v1.0 Animal Race and assignment v1.5 Animal Race.
+This project is a combination of Animal Race and Animal Race.
 
 This is to demonstrate Abstract Factory design pattern, I have followed below approach to achieve this:
 1. Create an Interface called “IRacer”.
